@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.wrap": "ini",
+        "stdlib.h": "c",
+        "ncurses.h": "c",
+        "time.h": "c",
+        "millis.h": "c",
+        "inttypes.h": "c",
+        "cmath": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
