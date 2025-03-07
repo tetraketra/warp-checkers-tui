@@ -1,0 +1,7 @@
+# Build
+app/*
+
+# Arcane personal build scripts.
+debug*.sh
+release*.sh
+dlclose.so
