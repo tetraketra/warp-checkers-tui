@@ -1,7 +1,10 @@
 # Build
 app/*
 
-# Arcane personal build scripts.
+# Arcane personal build scripts
 debug*.sh
 release*.sh
 dlclose.so
+
+# Other
+.vscode
